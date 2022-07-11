@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deep
-- 👀 I’m interested in data analysis and coding.
+- 👀 I’m interested in data analysis and development.
 - 🌱 I’m currently learning analytics
 - 💞️ I’m looking to collaborate on interesting data science/analysis projects
 - 📫 How to reach me www.linkedin.com/in/just2deep
