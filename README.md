@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **SQL, Power BI**
+- 🌱 I’m currently learning **SQL, Power BI, Python**
 
 - 👯 I’m looking to collaborate on **interesting data projects**
 
