@@ -5,7 +5,7 @@
 <img align="right" alt="github" width="400" src="https://i.imgur.com/MvMxQ1a.gif"></img>
 
 
-<p align="left"> <a href="https://twitter.com/deepakd26340250" target="blank"><img src="https://img.shields.io/twitter/follow/deepakd26340250?logo=twitter&style=for-the-badge" alt="deepakd26340250" /></a> </p>
+<p align="left"> <a href="https://twitter.com/just05deep" target="blank"><img src="https://img.shields.io/twitter/follow/just05deep?logo=twitter&style=for-the-badge" alt="just05deep" /></a> </p>
 
 - 🔭 I’m currently working on **Front End Technologies**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/just05deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakd26340250" height="30" width="40" /></a>
+<a href="https://twitter.com/just05deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just05deep" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/just2deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="just2deep" height="30" width="40" /></a>
 </p>
 
