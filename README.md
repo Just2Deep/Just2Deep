@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/deepakd26340250" target="blank"><img src="https://img.shields.io/twitter/follow/deepakd26340250?logo=twitter&style=for-the-badge" alt="deepakd26340250" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Front End Technologies**
 
-- 🌱 I’m currently learning **SQL, Power BI, Python**
+- 🌱 I’m currently learning **SQL, DSA, Python**
 
-- 👯 I’m looking to collaborate on **interesting data projects**
+- 👯 I’m looking to collaborate on **interesting web projects**
 
 - 👨‍💻 All of my projects are available at [https://just2deep.github.io](https://just2deep.github.io)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deepakd26340250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakd26340250" height="30" width="40" /></a>
+<a href="https://twitter.com/just05deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakd26340250" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/just2deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="just2deep" height="30" width="40" /></a>
 </p>
 
