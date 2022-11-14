@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/33607/screenshots/2962957/media/1a6a7c92fdabbb45c19046eba5a1b1e4.gif)](https://just2deep.io)
 <h1 align="center">Hi 👋, I'm Deep</h1>
-<h3 align="center">A lazy coder and an analyst trying to learn new stuff.</h3>
+<h3 align="center">An overthinker learning new stuff.</h3>
 
 <img align="right" alt="github" width="400" src="https://i.imgur.com/MvMxQ1a.gif"></img>
 
