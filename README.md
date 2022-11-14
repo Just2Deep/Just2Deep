@@ -3,9 +3,9 @@
 
 <h3 align="center">A software engineer trying to learn new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=just2deep&label=Profile%20views&color=0e75b6&style=flat" alt="just2deep" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=just2deep&label=Profile%20views&color=0e75b6&style=flat" alt="just2deep" /> </p>
 
-<p align="left"> <a href="https://twitter.com/just05deep" target="blank"><img src="https://img.shields.io/twitter/follow/just05deep?logo=twitter&style=for-the-badge" alt="just05deep" /></a> </p>
+<p align="center"> <a href="https://twitter.com/just05deep" target="blank"><img src="https://img.shields.io/twitter/follow/just05deep?logo=twitter&style=for-the-badge" alt="just05deep" /></a> </p>
 
 - 🔭 I’m currently working on **Front End Technologies**
 
