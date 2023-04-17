@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just2deep&show_icons=true&locale=en" alt="just2deep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just2deep&" alt="just2deep" /></p>
+
+✨
