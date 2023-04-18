@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://just2deep.github.io](https://just2deep.github.io)
 
-- 💬 Ask me about **HTML, CSS & Python**
+- 💬 Ask me about **HTML, CSS , JavaScript & Python**
 
 - 📫 How to reach me **deepakrajsrs@gmail.com**
 
