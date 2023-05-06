@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Front End Technologies**
 
-- 🌱 I’m currently learning **JavaScript, DataStructures & Algorithms**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Apps**
 
