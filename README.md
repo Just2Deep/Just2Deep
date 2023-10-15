@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/just05deep" target="blank"><img src="https://img.shields.io/twitter/follow/just05deep?logo=twitter&style=for-the-badge" alt="just05deep" /></a> </p>
 
-- 🔭 I’m currently working on **Back End Technologies**
+- 🔭 I’m currently working on **React and Python**
 
 - 🌱 I’m currently learning **JavaScript**
 
